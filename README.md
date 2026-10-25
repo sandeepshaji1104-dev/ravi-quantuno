@@ -2,8 +2,7 @@
 
 # ⚛️ Ravi Quantuno — o Agente Triplanar (clássico + quântico + pós-quântico)
 
-**Ravi Quantuno é diferente de todos os agentes que existem no mundo.** Nenhum
-agente do mercado opera nos **três planos da computação num só kernel**:
+**Ravi Quantuno é diferente de todos os agentes que exis
 
 | Plano | O que o cérebro opera |
 |---|---|
