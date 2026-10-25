@@ -103,4 +103,4 @@ A primeira missão do Ravi Quantuno rodou no silício da IBM: ver
 
 ---
 *Serena Quantum Solutions — Ravi Quantuno: opera o mundo quântico, com recibo.*
-*Sem endosso da IBM; jobs são públicos e os recibos carregam o job ID.*
+*Sem endosso da IBM; j recibos carregam o job ID.*
