@@ -1,10 +1,4 @@
-[![self-test](https://github.com/SerenaSolutions/ravi-quantuno/actions/workflows/self-test.yml/badge.svg)](https://github.com/SerenaSolutions/ravi-quantuno/actions/workflows/self-test.yml) [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-Ravi_Quantuno-blue)](https://github.com/marketplace?query=Ravi+Quantuno) [![Pages](https://img.shields.io/badge/Pages-ravi--quantuno-blue)](https://serenasolutions.github.io/ravi-quantuno/)
-
-# ⚛️ Ravi Quantuno — o Agente Triplanar (clássico + quântico + pós-quântico)
-
-**Ravi Quantuno é diferente de todos os agentes que exis
-
-| Plano | O que o cérebro opera |
+[![self-test](https://github.com/SerenaSolutions/ravi-quantuno/actions/workflows/self-test.yml/badge.svg)](https://github.com/SerenaSolutions/ravi-quantuno/actions/workflows/self-test.yml) [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-Ravi_Quantuno-blue)](https://github.com/marketplace?query=Ravi+Quantuno) [![Pages](https://img.shields.io/badge/Pages-ravi--quantuno-blue)](https://serenas
 |---|---|
 | **CLÁSSICO** | computação determinística: cadeia de selos SHA3, recuperação BM25, aritmética |
 | **QUÂNTICO** | síntese + execução de circuitos em 5 linguagens, silício real da IBM |
@@ -86,18 +80,4 @@ Serena Quantum API, com o token trancado no servidor, nunca no app.
 
 ## Missão de estreia (hardware real)
 
-A primeira missão do Ravi Quantuno rodou no silício da IBM: ver
-`examples/missoes/estreia_hardware.receipt.json` — bateria trivalente completa
-(job ID selado no recibo), decisões lidas do hardware real.
-
-## Roteiro (declarado, não prometido)
-
-- Serena Quantum API: ponte REST com token trancado no servidor para os
-  provedores IBM/Braket/Azure
-- Mais linguagens executáveis no kernel (tket, Stim, pyQuil)
-- Missão `qec` (correção de erros) e `grover` (busca) no kernel
-- Campanha de mitigação de erro (Mitiq) para shots de produção
-
----
-*Serena Quantum Solutions — Ravi Quantuno: opera o mundo quântico, com recibo.*
-*Sem endosso da IBM; j recibos carregam o job ID.*
+A primeira missão do Ravi Quantuno rodou no silício da IBM: ve
