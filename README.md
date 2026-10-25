@@ -8,9 +8,7 @@
 |---|---|
 | **CLÁSSICO** | computação determinística: cadeia de selos SHA3, recuperação BM25, aritmética |
 | **QUÂNTICO** | síntese + execução de circuitos em 5 linguagens, silício real da IBM |
-| **PÓS-QUÂNTICO** | assinatura ML-DSA-44 (FIPS 204), anti-forjamento, entropia quântica atestada |
-
-E tem **autonomia real**: o cérebro (`ravi/cerebro.py`) **planeja** a missão em
+| **PÓS-QUÂNTICO** | assinatura ML-DSA-44 (FIPS 204), anti-forjamento, entropia quântica ates
 passos, **executa** cada passo no plano certo e **verifica trivalentemente**
 após cada passo — 1 = verificado e segue, 0 = recupera com uma retentativa,
 REFUSED = aborta. O pensamento completo (plano + vereditos por passo) vai
