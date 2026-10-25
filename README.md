@@ -1,9 +1,4 @@
-[![self-test](https://github.com/SerenaSolutions/ravi-quantuno/actions/workflows/self-test.yml/badge.svg)](https://github.com/SerenaSolutions/ravi-quantuno/actions/workflows/self-test.yml) [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-Ravi_Quantuno-blue)](https://github.com/marketplace?query=Ravi+Quantuno) [![Pages](https://img.shields.io/badge/Pages-ravi--quantuno-blue)](https://serenas
-|---|---|
-| **CLÁSSICO** | computação determinística: cadeia de selos SHA3, recuperação BM25, aritmética |
-| **QUÂNTICO** | síntese + execução de circuitos em 5 linguagens, silício real da IBM |
-| **PÓS-QUÂNTICO** | assinatura ML-DSA-44 (FIPS 204), anti-forjamento, entropia quântica ates
-passos, **executa** cada passo no plano certo e **verifica trivalentemente**
+[![self-test** cada passo no plano certo e **verifica trivalentemente**
 após cada passo — 1 = verificado e segue, 0 = recupera com uma retentativa,
 REFUSED = aborta. O pensamento completo (plano + vereditos por passo) vai
 selado no recibo de cada missão.
